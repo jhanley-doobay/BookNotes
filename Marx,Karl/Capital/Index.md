@@ -35,10 +35,10 @@
 |Chapter 15. Machinery and Modern Industry|[EG](Volume1/EG/15.md) [KM](Volume1/KM/15.md) [JH](Volume1/JH/15.md)|
 |*Part 5: Production of Absolute and Relative Surplus-Value*||
 |Chapter 16. Absolute and Relative Surplus-Value|[EG](Volume1/EG/16.md) [KM](Volume1/KM/16.md) [JH](Volume1/JH/16.md)|
-|Chapter 17. Changes of Magnitude in the Price of Labour-Power and in Surplus Value|[DH](Volume1/DH/17.md) [EG](Volume1/EG/17.md) [KM](Volume1/KM/17.md) [JH](Volume1/JH/17.md)|
+|Chapter 17. Changes of Magnitude in the Price of Labour-Power and in Surplus Value|[EG](Volume1/EG/17.md) [KM](Volume1/KM/17.md) [JH](Volume1/JH/17.md)|
 |Chapter 18. Various Formula for the rate of Surplus-Value|[EG](Volume1/EG/18.md) [KM](Volume1/KM/18.md) [JH](Volume1/JH/18.md)|
 |*Part 6: Wages*||
-|Chapter 19. The Transformation of the Value (and Respective Price) of Labour-Power into Wages|[DH](Volume1/DH/19.md) [EG](Volume1/EG/19.md) [KM](Volume1/KM/19.md) [JH](Volume1/JH/19.md)|
+|Chapter 19. The Transformation of the Value (and Respective Price) of Labour-Power into Wages|[EG](Volume1/EG/19.md) [KM](Volume1/KM/19.md) [JH](Volume1/JH/19.md)|
 |Chapter 20. Time-Wages|[EG](Volume1/EG/20.md) [KM](Volume1/KM/20.md) [JH](Volume1/JH/20.md)|
 |Chapter 21. Piece-Wages|[EG](Volume1/EG/21.md) [KM](Volume1/KM/21.md) [JH](Volume1/JH/21.md)|
 |Chapter 22. National Difference of Wages|[EG](Volume1/EG/22.md) [KM](Volume1/KM/22.md) [JH](Volume1/JH/22.md)|
@@ -51,7 +51,7 @@
 |Chapter 27. Expropriation of the Agricultural Population From the Land|[EG](Volume1/EG/27.md) [KM](Volume1/KM/27.md) [JH](Volume1/JH/27.md)|
 |Chapter 28. Bloody Legislation against the Expropriated, from the End of the 15th Century. Forcing Down of Wages by Acts of Parliament|[EG](Volume1/EG/28.md) [KM](Volume1/KM/28.md) [JH](Volume1/JH/28.md)|
 |Chapter 29. Genesis of the Capitalist Farmer|[EG](Volume1/EG/29.md) [KM](Volume1/KM/29.md) [JH](Volume1/JH/29.md)|
-|Chapter 30. Reaction of the Agricultural Revolution on Industry. Creation of the Home-Market for Industrial Capital|[DH](Volume1/DH/30.md) [EG](Volume1/EG/30.md) [KM](Volume1/KM/30.md) [JH](Volume1/JH/30.md)|
+|Chapter 30. Reaction of the Agricultural Revolution on Industry. Creation of the Home-Market for Industrial Capital|[EG](Volume1/EG/30.md) [KM](Volume1/KM/30.md) [JH](Volume1/JH/30.md)|
 |Chapter 31. The Genesis of the Industrial Capitalist|[EG](Volume1/EG/31.md) [KM](Volume1/KM/31.md) [JH](Volume1/JH/31.md)|
 |Chapter 32. Historical Tendency of Capitalist Accumulation|[EG](Volume1/EG/32.md) [KM](Volume1/KM/32.md) [JH](Volume1/JH/32.md)|
 |Chapter 33. The Modern Theory of Colonisation|[EG](Volume1/EG/33.md) [KM](Volume1/KM/33.md) [JH](Volume1/JH/33.md)|
