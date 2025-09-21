@@ -16,7 +16,7 @@
 |-----------------|--------|
 |*Part 1: Commodities and Money*||
 |Chapter 1. Commodities|[EG](Volume1/EG/1.md) [KM](Volume1/KM/1.md) [JH](Volume1/JH/1.md)|
-|Chapter 2. Exchange|[EG](Volume1/EG/2.md) [KM](Volume1/KM/2.md) [JH](Volume1/JH/2.md)|
+<!--|Chapter 2. Exchange|[EG](Volume1/EG/2.md) [KM](Volume1/KM/2.md) [JH](Volume1/JH/2.md)|
 |Chapter 3. Money or the Circulation of Commodities|[EG](Volume1/EG/3.md) [KM](Volume1/KM/3.md) [JH](Volume1/JH/3.md)|
 |*Part 2: Transformation of Money into Capital*||
 |Chapter 4. The General Formula for Capital|[EG](Volume1/EG/4.md) [KM](Volume1/KM/4.md) [JH](Volume1/JH/4.md)|
@@ -54,7 +54,7 @@
 |Chapter 30. Reaction of the Agricultural Revolution on Industry. Creation of the Home-Market for Industrial Capital|[EG](Volume1/EG/30.md) [KM](Volume1/KM/30.md) [JH](Volume1/JH/30.md)|
 |Chapter 31. The Genesis of the Industrial Capitalist|[EG](Volume1/EG/31.md) [KM](Volume1/KM/31.md) [JH](Volume1/JH/31.md)|
 |Chapter 32. Historical Tendency of Capitalist Accumulation|[EG](Volume1/EG/32.md) [KM](Volume1/KM/32.md) [JH](Volume1/JH/32.md)|
-|Chapter 33. The Modern Theory of Colonisation|[EG](Volume1/EG/33.md) [KM](Volume1/KM/33.md) [JH](Volume1/JH/33.md)|
+|Chapter 33. The Modern Theory of Colonisation|[EG](Volume1/EG/33.md) [KM](Volume1/KM/33.md) [JH](Volume1/JH/33.md)|-->
 
 ### David Harvey: A Companion to Marx's Capital Volume 1
 
@@ -62,7 +62,7 @@
 |-----------------|
 | *Part 1: Commodities and Money*|
 |[1: Commodities and Exchange](./Volume1/DH/1.md)|
-|[2: Money](./Volume1/DH/2.md)|
+<!--|[2: Money](./Volume1/DH/2.md)|
 |*Part 2: Transformation of Money into Capital*|
 |[3: From Capital to Labor Power](./Volume1/DH/3.md)|
 |*Part 3: The Production of Absolute Surplus-Value*|
@@ -187,4 +187,4 @@
 |[9: Circulation and Turnover Times](./Volume2/DH/5.md)|2:15-17|
 |[10: The Reproduction of Capital](./Volume2/DH/6.md)|2:18-20|
 |[11: The Problems of Fixed Capital and Expanded Reproduction](./Volume2/DH/7.md)|2:20-21|
-|[12: Reflections](./Volume3/DH/5.md)||
+|[12: Reflections](./Volume3/DH/5.md)||-->
