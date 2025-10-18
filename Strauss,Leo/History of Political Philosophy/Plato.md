@@ -1,0 +1,3 @@
+# Plato
+
+## By Leo Strauss
