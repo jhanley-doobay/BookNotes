@@ -1,8 +1,7 @@
 # Book Notes
 
-This is to serve as a general collection of notes that I am trying to transcribe for books and secondary literature.
-I am currently working through Capital again. It's been 8 years since I have read through it, and am looking to go back through it again.
-Here's a general index of Authors I am currently setting things up for:
+This is to serve as a general collection of notes on books I have an interest in reading.
+Here's a general index of Authors, some are in progress, some are finished.
 
 |1|2|3|
 |-|-|-|
